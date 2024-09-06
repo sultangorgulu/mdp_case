@@ -1,0 +1,30 @@
+name: mdp_case
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  http: ^1.2.2
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.1
+  flutter_svg: ^1.1.1
+  get_storage: ^2.1.1
+  shared_preferences: ^2.3.2
+  sizer: ^2.0.15
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - assets/background.jpg
+  uses-material-design: true
