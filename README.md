@@ -1,4 +1,6 @@
 # mdp_case
 Bu proje MDP Group'un göndermiş olduğu case için oluşturulmuştur.
-![Screenshot_1725644819](https://github.com/user-attachments/assets/50fffb05-6773-454e-8636-3d85bd52acb8) ![Screenshot_1725644803](https://github.com/user-attachments/assets/bc68e8b2-a174-45ca-bc18-2e728bf73e1c) ![Screenshot_1725644825](https://github.com/user-attachments/assets/221f991e-d91a-4fbe-b883-0e49d2231bb7)
-![Screenshot_1725644821](https://github.com/user-attachments/assets/8ac5d337-9c25-4665-8664-de468d3437e0)
+![Screenshot_1725644825](https://github.com/user-attachments/assets/7adfed89-21af-43c1-ac48-b30c9cc9d511)
+![Screenshot_1725644821](https://github.com/user-attachments/assets/2d6fb4e8-3775-4389-b0f3-7320c63eee20)
+![Screenshot_1725644819](https://github.com/user-attachments/assets/0177a9e7-9a75-4570-a110-e0c6dfeaded6)
+![Screenshot_1725644803](https://github.com/user-attachments/assets/cce5b923-136f-4aba-ba37-ac3f6c9b9f16)
